@@ -1,0 +1,45 @@
+/* Changing the font of the webpage to a different font */
+*{
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.photo{
+    width: 200px;
+    height: 350px;
+}
+
+header{
+    
+    background: #4B4A54;
+    color: aliceblue;
+    font-size: small;
+}
+
+.menu{
+    display: block;
+    text-decoration: none;
+    padding: 20px 5px;
+    background: #677381;
+    margin: 16px;
+    cursor: pointer;
+}
+
+
+article{
+    background: #47817F;
+}
+
+.edu{
+    background: #B9B9B9;
+}
+
+.skill{
+    background: #4B4A54;
+}
+
+footer{
+    background: #887177;
+}
+
